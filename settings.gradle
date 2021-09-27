@@ -1,0 +1,2 @@
+rootProject.name = "Key Store Test"
+include ':app'
